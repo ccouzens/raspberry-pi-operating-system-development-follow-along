@@ -7,4 +7,4 @@ I aim to follow along with this git repository.
 
 I am using Ubuntu.
 I am not using the suggested toolchain (or maybe I am, but I installed it differently).
-Instead, I have installed [arm-linux-gnueabi](apt://arm-linux-gnueabi)
+Instead, I have installed [gcc-arm-linux-gnueabi](apt://gcc-arm-linux-gnueabi)
