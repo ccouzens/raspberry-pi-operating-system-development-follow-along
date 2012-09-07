@@ -1,0 +1,8 @@
+.AppleDouble/
+build/*
+*.swp
+kernel.img
+kernel.list
+kernel.map
+*~
+
